@@ -33,6 +33,8 @@
 		BCCC16C22C38DA7D0063942C /* Customer+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCC16BE2C38DA7D0063942C /* Customer+CoreDataProperties.swift */; };
 		BCCC16C32C38DA7D0063942C /* Dish+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCC16BF2C38DA7D0063942C /* Dish+CoreDataClass.swift */; };
 		BCCC16C42C38DA7D0063942C /* Dish+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCC16C02C38DA7D0063942C /* Dish+CoreDataProperties.swift */; };
+		BCCC16C62C391A5C0063942C /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCC16C52C391A5C0063942C /* OnboardingView.swift */; };
+		BCCC16C82C391B4A0063942C /* TitledTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCC16C72C391B4A0063942C /* TitledTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +85,8 @@
 		BCCC16BE2C38DA7D0063942C /* Customer+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customer+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		BCCC16BF2C38DA7D0063942C /* Dish+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dish+CoreDataClass.swift"; sourceTree = "<group>"; };
 		BCCC16C02C38DA7D0063942C /* Dish+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dish+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		BCCC16C52C391A5C0063942C /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		BCCC16C72C391B4A0063942C /* TitledTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitledTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +146,8 @@
 				BCCC169D2C38B5230063942C /* HeroView.swift */,
 				BCCC16982C38B3420063942C /* DishesListView.swift */,
 				BCCC16A12C38B5D50063942C /* ProfileView.swift */,
+				BCCC16C72C391B4A0063942C /* TitledTextField.swift */,
+				BCCC16C52C391A5C0063942C /* OnboardingView.swift */,
 				BCCC16A52C38CEB70063942C /* MainButtonStyles.swift */,
 				BCCC16A32C38CE740063942C /* iOSCheckboxToggleStyle.swift */,
 				BCCC16882C38ADE20063942C /* DishesModel.swift */,
@@ -339,6 +345,7 @@
 				BCCC16662C38AB720063942C /* littlelemonapp.xcdatamodeld in Sources */,
 				BCCC16892C38ADE20063942C /* DishesModel.swift in Sources */,
 				BCCC169C2C38B5180063942C /* OrderingView.swift in Sources */,
+				BCCC16C62C391A5C0063942C /* OnboardingView.swift in Sources */,
 				BCCC16A22C38B5D50063942C /* ProfileView.swift in Sources */,
 				BCCC16AC2C38D5960063942C /* Fonts+Custom.swift in Sources */,
 				BCCC16952C38AFD20063942C /* Dish+Extension.swift in Sources */,
@@ -349,6 +356,7 @@
 				BCCC16C42C38DA7D0063942C /* Dish+CoreDataProperties.swift in Sources */,
 				BCCC168B2C38AE000063942C /* MenuItem.swift in Sources */,
 				BCCC165C2C38AB6F0063942C /* ContentView.swift in Sources */,
+				BCCC16C82C391B4A0063942C /* TitledTextField.swift in Sources */,
 				BCCC16A42C38CE740063942C /* iOSCheckboxToggleStyle.swift in Sources */,
 				BCCC169E2C38B5230063942C /* HeroView.swift in Sources */,
 				BCCC16972C38B17A0063942C /* FetchedObjects.swift in Sources */,
